@@ -3,10 +3,7 @@
 
 
 Tienen que tener instalado python idle con comandos en terminal
-<br>
-<br>
-<br>
-<br>
+en ubunto ya tienen instalado python por defecto
 
 
 van al  terminal, hacen cd al directorio del proyecto y escriben la siguiente linea:
