@@ -22,7 +22,7 @@ http://www.w3schools.com/html/
 Pagina con los colores de los simpsons
 http://springfieldfiles.com/index.php?jump=colours
 
-
+Para música : http://www.w3schools.com/html/html5_audio.asp
 
 Lo que pide la profe:
 Estilo de texto en marquesina
