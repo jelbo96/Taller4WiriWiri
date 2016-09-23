@@ -33,3 +33,5 @@ Autor
 Color de fondo Página
 color de fondo marquesina
 musica
+
+Ejemplos de marquesinas: http://www.fillster.com/htmlcodes/marquees.html
