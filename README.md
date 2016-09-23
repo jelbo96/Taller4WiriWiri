@@ -21,3 +21,15 @@ http://www.w3schools.com/html/
 
 Pagina con los colores de los simpsons
 http://springfieldfiles.com/index.php?jump=colours
+
+
+
+Lo que pide la profe:
+Estilo de texto en marquesina
+Imagen Fija
+Imagen animada
+Vinculo
+Autor
+Color de fondo Página
+color de fondo marquesina
+musica
