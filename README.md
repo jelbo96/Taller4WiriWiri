@@ -13,4 +13,8 @@ python -m SimpleHTTPServer 8000
 
 
 
-esta pagina tiene las mejores referencias para aprender html: http://www.w3schools.com/cssreF/pr_background-image.asp
+esta pagina tiene las mejores referencias para aprender html: 
+
+http://www.w3schools.com/cssreF/
+
+http://www.w3schools.com/html/
