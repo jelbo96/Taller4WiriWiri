@@ -18,3 +18,6 @@ esta pagina tiene las mejores referencias para aprender html:
 http://www.w3schools.com/cssreF/
 
 http://www.w3schools.com/html/
+
+Pagina con los colores de los simpsons
+http://springfieldfiles.com/index.php?jump=colours
