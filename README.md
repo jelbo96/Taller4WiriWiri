@@ -7,4 +7,10 @@ en ubunto ya tienen instalado python por defecto
 
 
 van al  terminal, hacen cd al directorio del proyecto y escriben la siguiente linea:
+
 python -m SimpleHTTPServer 8000
+
+
+
+
+esta pagina tiene las mejores referencias para aprender html: http://www.w3schools.com/cssreF/pr_background-image.asp
