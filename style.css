@@ -1,6 +1,13 @@
 body{
 	font-family: SimpsonFont;
 }
+body, text{
+	text-align: center;
+	font-size: 7vh;
+}
+img {
+    max-width: 100% !important;
+  }
 .yellow{
 	color: yellow;
 }
@@ -8,8 +15,15 @@ body{
 	background-color: rgb(255,217,15);
 }
 
-
 @font-face {
     font-family: SimpsonFont;
     src: url(simpsonfont/Simpsonfont.ttf);
+}
+.gif-size{
+	width: 300px;
+	height: auto;
+}
+
+body, marquee, img{
+
 }
