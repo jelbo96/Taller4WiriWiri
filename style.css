@@ -1,7 +1,15 @@
-.background-black{
-	background-color: yellow;
+body{
+	font-family: SimpsonFont;
 }
-
 .yellow{
 	color: yellow;
+}
+.simpsons-backgroundcolor{
+	background-color: rgb(255,217,15);
+}
+
+
+@font-face {
+    font-family: SimpsonFont;
+    src: url(simpsonfont/Simpsonfont.ttf);
 }
