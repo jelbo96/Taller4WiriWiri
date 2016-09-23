@@ -12,7 +12,9 @@ body, marquee{
 	margin-bottom: 5vh;
 	background-color: rgb(79,118,223);
 }
-
+#audio{
+	
+}
 #sofa{
 	align-content: center;
 	margin-top: 5vh;
