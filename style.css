@@ -1,0 +1,43 @@
+body{
+	font-family: SimpsonFont;
+}
+body, text{
+	text-align: center;
+	font-size: 7vh;
+}
+img {
+    max-width: 100% !important;
+  }
+body, marquee{
+	margin-bottom: 5vh;
+	background-color: rgb(79,118,223);
+}
+#audio{
+	
+}
+#sofa{
+	align-content: center;
+	margin-top: 5vh;
+}
+
+.yellow{
+	color: yellow;
+}
+
+.simpsons-backgroundcolor{
+	background-color: rgb(255,217,15);
+}
+.border-radius-1{
+	border-radius: 25px;
+}
+
+.gif-size{
+	width: 300px;
+	height: auto;
+}
+
+
+@font-face {
+    font-family: SimpsonFont;
+    src: url(simpsonfont/Simpsonfont.ttf);
+}
